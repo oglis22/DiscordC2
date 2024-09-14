@@ -11,6 +11,16 @@ help -> Shows all commands with instructions
 info -> Shows info about the server
 getchannels -> Shows all channels and informations about it
 nuke -> Makes cool things ;)
+
+in planning
+
+getallmembers
+mesg <message>
+listchannelhistory <channel> <msg_count>
+memberinfo <member>
+channelinfo <channel>
+ban <member>
+kick <member>
 ```
 
 ## Installation
@@ -26,6 +36,10 @@ start.bat
 LINUX:
 ./start.sh
 ```
+
+## Contribution
+
+Contributor are always welcome :=)
 
 ### Disclaimer
 
