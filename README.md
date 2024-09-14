@@ -11,8 +11,6 @@ help -> Shows all commands with instructions
 info -> Shows info about the server
 getchannels -> Shows all channels and informations about it
 nuke -> Makes cool things ;)
-
-
 ```
 
 ## Installation
@@ -27,7 +25,6 @@ start.bat
 
 LINUX:
 ./start.sh
-
 ```
 
 ### Disclaimer
