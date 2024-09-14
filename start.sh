@@ -1,0 +1,1 @@
+.venv/Scripts/python -m discordc2.main

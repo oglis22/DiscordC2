@@ -1,0 +1,13 @@
+# Configuration file for DiscordC2
+# version 1.0.0
+
+[cli]
+
+[bot]
+# Secret Bot token --> https://discord.com/developers/applications (DONT SHARE IT)
+token = ""
+
+application_id = 
+public_key = ""
+
+guild =
